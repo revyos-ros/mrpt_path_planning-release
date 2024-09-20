@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/mrpt_path_planning-release.git
 tracks:
   humble:
     actions:
