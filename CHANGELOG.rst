@@ -2,6 +2,16 @@
 Changelog for package mrpt_path_planning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.5 (2024-09-16)
+------------------
+* Update RTTI macros for upcoming MRPT 2.14.0
+* Contributors: Jose Luis Blanco-Claraco
+
+0.1.4 (2024-08-29)
+------------------
+* Depend on new mrpt_lib packages (deprecate mrpt2)
+* Contributors: Jose Luis Blanco-Claraco
+
 0.1.3 (2024-05-24)
 ------------------
 * Update badges for ROS2 distros
