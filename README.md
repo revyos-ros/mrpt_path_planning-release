@@ -1,3 +1,26 @@
+## mrpt_path_planning (jazzy) - 0.1.5-1
+
+The packages in the `mrpt_path_planning` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy mrpt_path_planning --override-release-repository-push-url git@github.com:revyos-ros/mrpt_path_planning-release.git` on `Sun, 29 Sep 2024 04:05:44 -0000`
+
+The `mrpt_path_planning` package was released.
+
+Version of package(s) in repository `mrpt_path_planning`:
+
+- upstream repository: https://github.com/MRPT/mrpt_path_planning.git
+- release repository: https://github.com/revyos-ros/mrpt_path_planning-release.git
+- rosdistro version: `0.1.5-1`
+- old version: `0.1.3-1`
+- new version: `0.1.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## mrpt_path_planning (humble) - 0.1.5-1
 
 The packages in the `mrpt_path_planning` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble mrpt_path_planning --override-release-repository-push-url git@github.com:revyos-ros/mrpt_path_planning-release.git` on `Fri, 20 Sep 2024 06:35:17 -0000`
